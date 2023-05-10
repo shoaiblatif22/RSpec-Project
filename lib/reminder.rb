@@ -10,3 +10,4 @@ class Reminder
   def remind()
     return "#{@task}, #{@name}!"
   end
+end
